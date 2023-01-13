@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/723b1c06-1a92-433a-ac7a-b4ff1bccf2b6/debz0br-0fbc534d-b005-4631-8811-135748fbac61.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcyM2IxYzA2LTFhOTItNDMzYS1hYzdhLWI0ZmYxYmNjZjJiNlwvZGViejBici0wZmJjNTM0ZC1iMDA1LTQ2MzEtODgxMS0xMzU3NDhmYmFjNjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mo6Ui5lRI9ojXBOO2JAIUqpZclgDxfkfl9i2dxWKJXc" width="250" /> 
 
-<!--
-**braxtonculver/braxtonculver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+Check out my profile and repositories
++ Leave a star?
+ ─────────────
+     Name  =  "pronto"
+ Location  =  "United States"
+Interests  =  "Money, Development, Mechanics"
+Languages  =  "HTML, CSS, JS, C#, C++, VB.NET & Python"
+  Discord  =  "https://discord.gg/GmhE6nKcsP"
+ Biolinks  =  "https://cigarette.cf"
+```
