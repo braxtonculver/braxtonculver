@@ -4,10 +4,9 @@
 Check out my profile and repositories
 + Leave a star?
  ─────────────
-     Name  =  "pronto"
+     Name  =  "Braxton"
  Location  =  "United States"
-Interests  =  "Money, Development, Mechanics"
+Interests  =  "Cars, Development, Design"
 Languages  =  "HTML, CSS, JS, C#, C++, VB.NET & Python"
-  Discord  =  "https://discord.gg/GmhE6nKcsP"
- Biolinks  =  "https://cigarette.cf"
+  Discord  =  "https://discord.gg/TJTzc9Mete"
 ```
