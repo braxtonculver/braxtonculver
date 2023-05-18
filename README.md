@@ -1,4 +1,4 @@
-<img align="left" src="https://64.media.tumblr.com/68c9a6a62b6b19fa7ad3610318a630fa/tumblr_omru0fQm9N1w5n1g1o1_400.gifv" width="250" /> 
+<img align="left" src="https://giffiles.alphacoders.com/113/113010.gif" width="250" /> 
 
 ```python
 Check out my profile and repositories
