@@ -6,7 +6,7 @@ Check out my profile and repositories
  ─────────────
      Name  =  "Braxton"
  Location  =  "United States"
-Interests  =  "Cars, Development, Design"
+Interests  =  "Motorsports, Design, Development"
 Languages  =  "HTML, CSS, JS, C#, C++, VB.NET & Python"
      Site  =  "https://braxton.cash/"
   Discord  =  "https://discord.gg/TJTzc9Mete"
