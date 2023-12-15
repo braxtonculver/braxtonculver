@@ -6,6 +6,6 @@ Check out my profile and repositories
  Location  =  "United States"
 Interests  =  "Motorsports, Design, Development"
 Languages  =  "HTML, CSS, JS, C#, C++, VB.NET & Python"
-     Site  =  "https://braxton.cash/"
-  Discord  =  "https://discord.gg/TJTzc9Mete"
+     Site  =  "https://bdc.cx/"
+     Card  =  "https://cardlink.ink/bdc"
 ```
