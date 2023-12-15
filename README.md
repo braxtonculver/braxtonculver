@@ -4,7 +4,7 @@ Check out my profile and repositories
  ─────────────
      Name  =  "Braxton"
  Location  =  "United States"
-Interests  =  "Motorsports, Design, Development"
+Interests  =  "Motorsports, Design, Development & Photography"
 Languages  =  "HTML, CSS, JS, C#, C++, VB.NET & Python"
      Site  =  "https://bdc.cx/"
      Card  =  "https://cardlink.ink/bdc"
