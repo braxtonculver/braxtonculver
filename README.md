@@ -8,10 +8,10 @@ Check out my profile and repositories
 Interests  =  "Motorsports, Design, Development & Photography"
 Languages  =  "HTML, CSS, JS, C#, C++ & VB.NET"
 
-     Site  =  "apstl.co/"
+     Site  =  "apstl.co"
   Discord  =  "apstl.co/discord"
   Patreon  =  "apstl.co/patreon"
 
   Profile  =  "maleficus.me/braxton"
-  Tengoku  =  "jt.maleficus.me/"
+  Tengoku  =  "jt.maleficus.me"
 ```
