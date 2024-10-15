@@ -12,6 +12,6 @@ Languages  =  "Front End, JavaScript, Python, C"
   Discord  =  "apstl.co/discord"
   Patreon  =  "apstl.co/patreon"
 
-  Profile  =  "maleficus.me/braxton"
+Maleficus  =  "maleficus.me"
   Tengoku  =  "jt.maleficus.me"
 ```
