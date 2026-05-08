@@ -4,7 +4,7 @@ Check out my profile and repositories
  ─────────────
      Name  =  "Braxton"
  Location  =  "United States"
-Languages  =  "Front-End, JavaScript, Python, C/#/++, Rust, React, Ruby"
+Languages  =  "Front-End, JavaScript/React, Python, C/#/++, Rust, Ruby"
 ```
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K8LGLDY)
