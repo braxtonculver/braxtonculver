@@ -7,4 +7,4 @@ Check out my profile and repositories
 Languages  =  "JavaScript/React, Python, C/#/++, Rust, Ruby"
 ```
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K8LGLDY)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/thrausi)
